@@ -1,0 +1,46 @@
+
+* {
+    box-sizing: border-box;
+  }
+  div {
+    margin-bottom: 20px;
+  }
+  .container {
+    width: 100%;
+    max-width: 425px;
+    margin: 0 auto;
+    border: solid 1px black;
+    margin-top: 10px;
+    padding: 10px;
+  }
+  h1 {
+    text-align: center;
+    color: #0D47A1;
+    font-family: Open Sans;
+  }
+  label {
+    display: block;
+    font-family: Open Sans;
+  }
+  input {
+    display: block;
+    width: 100%;
+    font-size: 150%;
+    padding: 10px;
+    font-family: Open Sans;
+  }
+  p {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Open Sans;
+    text-align: center;
+    font-weight: bold;
+  }
+  #results {
+    display: block;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 10px;
+    font-size: 150%;
+    color: #0D47A1;
+  }
